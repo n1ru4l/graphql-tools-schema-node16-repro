@@ -1,0 +1,12 @@
+{
+  "name": "graphql-tools-schema-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@graphql-tools/schema": "8.5.0",
+    "graphql": "16.5.0",
+    "typescript": "4.7.4"
+  },
+  "type": "module"
+}
